@@ -38,9 +38,11 @@ npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-prox
 
 ## 💱 Support Me
 
-- (Global/International): https://trakteer.id/yovica/tip
-- Ton: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
-- Dogs: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
-- TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
-
+| Cryptocurrency | Address |
+|----------------|---------|
+| EVM | <table><tr><td><code>0x50B0cC52C9a6cc602Abe6429a5BF94fC75f3c03d</code></td></tr></table> |
+| SOL | <table><tr><td><code>C3uSX22aAu7CmxHrxFmKGPbsKK1jYWhq3kJxKKjuYsfu</code></td></tr></table> |
+| TON | <table><tr><td><code>UQCbczajWbXigXs6M2gqu3CObGHozJ5pBd-qnHVAK7cr6xCA</code></td></tr></table> |
+| Indonesia | Address |
+| IDN | <table><tr><td><code>https://trakteer.id/yovica/tip</code></td></tr></table> |
 
