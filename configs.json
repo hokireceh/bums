@@ -1,7 +1,7 @@
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
+  "country_time": "id-ID",
   "howManyEnergyUpgrade": 10,
   "howManyRecoveryUpgrade": 10,
   "howManyTapUpgrade": 10,
