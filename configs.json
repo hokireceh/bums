@@ -1,0 +1,12 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "howManyEnergyUpgrade": 10,
+  "howManyRecoveryUpgrade": 10,
+  "howManyTapUpgrade": 10,
+  "howManyBonusChanceUpgrade": 10,
+  "howManyBonusRatioUpgrade": 10,
+  "maxCardPrice": 1000000,
+  "combo": "101,102,103"
+}
