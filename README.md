@@ -43,7 +43,5 @@ npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-prox
 | EVM | <table><tr><td><code>0x50B0cC52C9a6cc602Abe6429a5BF94fC75f3c03d</code></td></tr></table> |
 | SOL | <table><tr><td><code>C3uSX22aAu7CmxHrxFmKGPbsKK1jYWhq3kJxKKjuYsfu</code></td></tr></table> |
 | TON | <table><tr><td><code>UQCbczajWbXigXs6M2gqu3CObGHozJ5pBd-qnHVAK7cr6xCA</code></td></tr></table> |
-
-| Indonesia | Address |
 | IDN | <table><tr><td><code>https://trakteer.id/yovica/tip</code></td></tr></table> |
 
